@@ -1,15 +1,17 @@
 * {
     font-family: 'Mulish', sans-serif;
 }
+
 .text-in-gray {
     color: #FFF;
-    text-align: center;
+    /* text-align: center; */
     font-size: 1rem;
     font-weight: 400;
     padding: 0 247px;
     padding-top: 0;
     padding-bottom: 48px;
 }
+
 .btn-primary {
     width: 174px;
     height: 52px;
@@ -103,3 +105,145 @@ nav a {
     border: 0px;
 }
 
+/* main-style */
+main {
+    margin: 100px 135px;
+}
+
+.agency-description {
+    display: flex;
+    justify-content: center;
+}
+
+.exp-title {
+    color: #131318;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 0;
+    margin-left: 247px;
+}
+
+.text-in-black {
+    color: #131318;
+    
+    font-size: 1rem;
+    font-weight: 400;
+    margin-left: 247px;
+    margin-right: 247px;
+    
+}
+
+.agency-img {
+    margin-right: 225px;
+}
+
+.point {
+    padding: 10px 0;
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+.destination {
+    
+    text-align: center;
+}
+
+.destination-title {
+    color: #131318;
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 800;
+}
+
+.place {
+    display: inline-block;
+    justify-content: center;
+}
+.element{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    height: 300px;
+}
+
+.maldives {
+    background: url(Images/Rectangle\ 5.png), linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 132px 220px;
+    color: #FFF;
+    font-size: 1.75rem;
+    font-weight: 800;
+    background-repeat: no-repeat;
+   
+}
+
+.indonesia {
+    background: url(Images/Rectangle\ 8.png), linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 132px 220px;
+    color: #FFF;
+    font-size: 1.75rem;
+    font-weight: 800;
+    background-repeat: no-repeat;
+    
+}
+
+.img-3 {
+    background: url(Images/Rectangle\ 6.png), linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 125px 130px 130px 126px;
+    color: #FFF;
+    font-size: 1.75rem;
+    font-weight: 800;
+    background-repeat: no-repeat;
+    
+}
+
+.img-4 {
+    background: url(Images/Rectangle\ 7.png), linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 125px 137px;
+    color: #FFF;
+    font-size: 1.75rem;
+    font-weight: 800;
+    background-repeat: no-repeat;
+    
+}
+
+
+.img-5 {
+    background: url(Images/Rectangle\ 9.png), linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 125px 80px;
+    color: #FFF;
+    font-size: 1.75rem;
+    font-weight: 800;
+    background-repeat: no-repeat;
+    
+}
+
+.img-6 {
+    background: url(Images/Rectangle\ 11.png), linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 132px 156px;
+    color: #FFF;
+    font-size: 1.75rem;
+    font-weight: 800;
+    background-repeat: no-repeat;
+    
+}
+
+.img-7 {
+    background: url(Images/Rectangle\ 10.png), linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(<path-to-image>), lightgray 50% / cover no-repeat;
+    border-radius: 16px;
+    padding: 132px 260px;
+    color: #FFF;
+    font-size: 1.75rem;
+    font-weight: 800;
+    background-repeat: no-repeat;
+    
+}
